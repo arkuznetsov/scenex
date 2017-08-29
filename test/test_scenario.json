@@ -1,0 +1,17 @@
+{
+    "stages": {
+        "Вывод справки oscript": {
+            "description": "Вывод справки oscript",
+            "tool": "oscript",
+            "command": ""
+        },
+        "Вывод справки deployka (команда loadcfg)": {
+            "description": "Вывод справки deployka",
+            "tool": "deployka",
+            "command": "help",
+            "params": [
+                "loadcfg"
+            ]
+        }
+    }
+}
